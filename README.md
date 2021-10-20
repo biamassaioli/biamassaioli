@@ -7,7 +7,7 @@ I am also joining the tech space aiming to build more ethical, diverse and susta
 <!-- 
 - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning ...
-HTML, CSS, JavaScript, React, Blockchain concepts
+HTML, CSS, JavaScript, Blockchain concepts
 
 - 👯 I’m looking to collaborate on ...
 Cool front end projects that mix interactional design, art and games and any Blockchain initiative.
